@@ -1,0 +1,8 @@
+# Ticketing System
+
+ ☐ ticket
+ ☐ reply
+ ☐ user
+
+ ☐ ticket is created by user
+ ☐ reply belongs to a ticket, belongs to a user
