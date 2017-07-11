@@ -1,8 +1,20 @@
-# Ticketing System
+Support Ticket Story:
+  ☐ the main idea is to have a self hosted support ticket system
+  ☐ for those who have a app or service that they want to provide private support through a ticketing system
 
- ☐ ticket
- ☐ reply
- ☐ user
+  User Story:
+   ☐ user can see open / closed / pending tickets
+   ☐ user can open a new ticket
+   ☐ user can close existing ticket
+   ☐ user can remove existing ticket
+   ☐ tickets will have conversations that a user can reply to
 
- ☐ ticket is created by user
- ☐ reply belongs to a ticket, belongs to a user
+  Tickets Story:
+    ☐ ticket
+    ☐ category ?? OR department / subject ??
+
+  Admin Story:
+    ☐ there can be two user type admin user / support user
+    ☐ there will be department for support user
+    ☐ admin can assign support user to a ticket to follow up
+    ☐ support user can change status of open ticket
